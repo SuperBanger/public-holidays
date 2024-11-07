@@ -1,0 +1,30 @@
+{
+    "holidays": {
+        "January": [1, 2, 7],
+        "February": [],
+        "March": [8],
+        "April": [],
+        "May": [1, 9, 13, 14],
+        "June": [],
+        "July": [3],
+        "August": [],
+        "September": [],
+        "October": [],
+        "November": [7, 8],
+        "December": [25]
+    },
+    "workingWeekends": {
+        "January": [],
+        "February": [],
+        "March": [],
+        "April": [],
+        "May": [18],
+        "June": [],
+        "July": [3],
+        "August": [],
+        "September": [],
+        "October": [],
+        "November": [16],
+        "December": []
+    }
+}
